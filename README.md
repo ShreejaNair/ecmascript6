@@ -1,5 +1,1 @@
-Git Init Method
-
-Javascript standard
-
-A New Added 
+Tutorial for ecmascript 6
